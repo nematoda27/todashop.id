@@ -48,6 +48,8 @@
 
 hr {
 	border-top: 3px dashed #7EAA92;
+	width: 70%;
+	margin: auto;
 }
 
 .container-wa {
